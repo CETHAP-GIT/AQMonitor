@@ -1,6 +1,6 @@
-# 🌊 AQMonitor – CETHAP
+# 🌊 AQMonitor – Monitorar o hoje para sustentar o amanhã
 
-**Centro de Tecnologia Hídrica Aplicada à Pecuária**
+Sistema inteligente para monitoramento da **qualidade da água** em tempo real.
 
 ---
 
