@@ -6,7 +6,7 @@
 
 ## 📌 Visão Geral
 
-O **AQMonitor** é um sistema inteligente e automatizado de monitoramento hídrico voltado para propriedades rurais, com foco inicial em bovinos leiteiros. Ele monitora a **qualidade da água**, o **volume disponível** e o **consumo diário** em tempo real, promovendo o bem-estar animal e otimizando a gestão hídrica nas atividades pecuárias e agrícolas.
+O **AQMonitor** é um sistema inteligente e automatizado de monitoramento hídrico voltado para propriedades rurais, com foco inicial em bovinos leiteiros. Ele monitora a **qualidade da água** em tempo real, promovendo o bem-estar animal e otimizando a gestão hídrica nas atividades pecuárias e agrícolas.
 
 ---
 
@@ -21,10 +21,7 @@ O **AQMonitor** é um sistema inteligente e automatizado de monitoramento hídri
 - pH
 - Turbidez
 - Temperatura
-- Fluxo de água
-- Nível (Ultrassônico)
 - TDS (Sólidos Totais Dissolvidos)
-- Condutividade elétrica (EC)
 
 ---
 
@@ -59,9 +56,7 @@ O **AQMonitor** é um sistema inteligente e automatizado de monitoramento hídri
 - Alertas locais em caso de anomalias (LED/buzzer)
 
 ### Plataforma Web
-- Gráficos de consumo diário/semanal/mensal
 - Alertas automáticos por parâmetro (ex: pH alto, turbidez elevada)
-- Estimativa de autonomia da cisterna
 - Recomendações práticas para correção de qualidade
 - Painel de controle para produtores e técnicos
 - Autenticação e segurança
