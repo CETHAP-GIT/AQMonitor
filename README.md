@@ -6,7 +6,7 @@ Sistema inteligente para monitoramento da **qualidade da água** em tempo real.
 
 ## 📌 Visão Geral
 
-O **AQMonitor** é um sistema inteligente e automatizado de monitoramento hídrico voltado para propriedades rurais, com foco inicial em bovinos leiteiros. Ele monitora a **qualidade da água** em tempo real, promovendo o bem-estar animal e otimizando a gestão hídrica nas atividades pecuárias e agrícolas.
+O **AQMonitor** é um sistema inteligente e automatizado de monitoramento hídrico direcionado para propriedades rurais, com foco inicial em animais. Ele monitora a **qualidade da água** em tempo real, promovendo o bem-estar animal e otimizando a gestão hídrica nas atividades pecuárias e agrícolas.
 
 ---
 
